@@ -25,6 +25,6 @@ The dataset includes:
 ## Example generated bar chart:
 
 <figure>
-    <img src="images/bar_chart.png)" alt="Example generated bar chart">
+    <img src= images/bar_chart.png alt="Example generated bar chart">
     <figcaption>Example Bar Chart Generated Using GAMMAS. Associated question: According to the bar chart, what was the percentage increase in hours spent by users on Online Shopping from 2019 to 2020?</figcaption>
 </figure>
